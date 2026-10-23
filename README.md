@@ -44,11 +44,5 @@
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
 </p>
 
-### 📈 Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gkony21&bg_color=0d1117&color=3B82F6&line=1F4E79&point=ffffff&hide_border=true&area=true" />
-</p>
-
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:0f172a&height=100&section=footer" width="100%" />
