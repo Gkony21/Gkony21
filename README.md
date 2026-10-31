@@ -3,7 +3,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Giorgos+%F0%9F%91%8B;Freelance+web+developer+based+in+Greece;I+ship+real+products+with+Claude+Code;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Giorgos+%F0%9F%91%8B;Freelance+web+developer+based+in+Greece;I+ship+real+products+with+AI-assisted+development;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+TypeScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ### 👨‍💻 About me
 
 - 💼 **Freelance web developer** (since Sep 2026), building websites and web apps for local businesses
-- 🤖 I build with **AI-assisted development (Claude Code)**: I define the requirements and business rules, break the work into steps, make the technical decisions, and review, test and deploy the result
+- 🤖 I build with **AI-assisted development**, mainly Claude Code, and I also work with other models through OpenRouter and LiteLLM. I define the requirements and business rules, break the work into steps, make the technical decisions, and review, test and deploy the result
 - 🎓 BSc in Computer Science, **University of Piraeus** (2026), thesis graded **10/10**
 - 📖 I'm studying the code of my own production projects to read, review and maintain it on my own
 - 🎯 Looking for a **junior software developer** role, especially in AI-driven teams
@@ -40,6 +40,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteLLM-111827?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
 </p>
